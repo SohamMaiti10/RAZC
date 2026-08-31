@@ -1,0 +1,6 @@
+{
+  "name": "RAZC // NTRO Automated Content Transformation Platform",
+  "description": "Secure Blockchain-Backed Source-Grounded Multimodal Content Transformation Platform for NTRO (SIH 2026)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
